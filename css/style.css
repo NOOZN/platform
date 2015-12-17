@@ -1,0 +1,35 @@
+a:hover{color: #000000;}
+p{word-wrap: break-word; word-break: normal;}
+li{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.bg-nav ul li a:hover{color: #26baff;}
+.bg-nav{background-color: #29282e; opacity: 0.9; color: #fff; z-index: 9999;}
+.bg-nav .logo{margin-top: 6px;}
+.bg-nav .tel{margin-top: 28px;}
+.bg-nav ul li a{margin: 0 0 8px 0; border-top: 4px solid #29282e; color: #fff;}
+.drop-menu li a{margin: 0; border: none; color: #fff;}
+.bg-inverse .nav li a:hover, .bg-inverse .nav .active a {background-color:  #4b5963; color: #fff; border-top: 4px solid #82cce7;
+    border-bottom: 8px solid #4b5963; margin: 0;}
+.service{line-height: 16px; border-left: 4px solid #82cce7; }
+.service span{margin-left: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
